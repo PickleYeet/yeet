@@ -27,11 +27,12 @@ padding: 10px;
 #nav ul {
 list-style-type: none;
 padding: 0;
-border: 2px solid black;
 }
 #nav{
 	width: 180px;
 	float: left;
+	border: 2px solid black;
+	background-color: palegreen;
 }
 #main{
 	width: 600px;
