@@ -35,6 +35,7 @@ padding: 0;
 #main{
 	width: 600px;
 	float: left;
+	font-family: sans-serif;
 }
 #footer{
 	clear: both;
