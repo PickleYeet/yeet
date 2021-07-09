@@ -1,11 +1,11 @@
 body{
 	font-family: Arial, sans-serif;
 	background-color: white;
-	font-weight:bold;
 }
 a{
 	text-decoration: none;
 	color: black;
+	font-weight:bold;
 }
 h1, h2, h3{
 	margin: 0;
