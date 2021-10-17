@@ -1,1 +1,54 @@
-
+!DOCTYPE html>
+<html>
+  <head>
+    <title>PickleSMP</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+      <link rel="shortcut icon" type="image/png" href="iconthing.png">
+  </head>
+  <body>
+  	<div id="container">
+  		<div id="header">
+  			<h1>PickleYeet</h1>
+  		</div>
+  			<div id="content">
+  				<div id="nav">
+  					<h3>Stuff</h3>
+  					<ul>
+  						<li><a class="selected"href="">Home</a></li>
+  						<li><a href="https://www.youtube.com/channel/UCefraj4nVYfD2i7Zj9j8z6w">My Youtube</a></li>
+  						<li><a href="https://pickleyeet.github.io/yeet/other.html">Other Stuff</a></li>
+              <li><a class="selected"href="">PickleSMP</a></li>
+  					</ul>
+  				</div>
+  				<div id="main">
+  					<h2>PickleSMP</h2>
+  					<p>PickleSMP is a minecraft server owned by <a href"">PickleYeet</a> aka the owner of this website<br/> 
+            SMP storyline in chronological order<br/>
+            10/02/21 The server starts with a 200x200 world and hardcore<br/>
+            TJMaster48 joins<br/>
+            They both build houses at spawn<br/>
+            Berry coin is founded<br/>
+            10/03/21 Gum66666 joins<br/>
+            Gum builds a house far away from spawn<br/>
+            BigManFan69 joins<br/>
+            Fan And Pickleyeet are instantly rivals as fan begins to insult Tjmaster48<br/>
+            Fan builds a house half way between spawn and gum's house<br/>
+            10/04/21 Shadowz6545 joins<br/>
+            Shadowz forms an alliance with fan<br/>
+            10/06/21 Pickleyeet asks if hardcore should be turned off<br/>
+            10/08/21 Hardcore is turned off<br/>
+            10/09/21 Pickleyeet begins work on a new base.<br/>
+            10/10/21 Radismad_ joins<br/>
+            Pickleyeet and Rad form an alliance and create gamerville(a village at spawn where TJmaster, Rad and Pickleyeet live)<br/>
+            2 new players are whitelisted: Kohga_master and Kinderrook<br/>
+            10/15/21 Gum and PickleYeet log on and decide to lavacast fan's house out<br/>
+            TJmaster logs on<br/>
+            Fan logs on and realises whats happened.<br/>
+            Fan declares war on Pickleyeet and destroys all of gamerville<br/>
+       </p>
+  			</div>
+  			<div id="footer">
+  				Copyright &copy; 2021 PickleYeet
+  			</div>
+        </body>
+  </html>
